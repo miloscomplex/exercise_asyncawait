@@ -1,0 +1,22 @@
+body {
+    background-image: url(background.jpg);
+    padding: 30px;
+}
+
+h2 {
+    color: #3484ff;
+    text-align: center;
+    border: 5px solid rgb(255, 176, 170);
+    cursor: pointer;
+}
+
+p { 
+    color: pink;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    display: inline;
+}
